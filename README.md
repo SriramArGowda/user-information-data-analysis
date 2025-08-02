@@ -1,6 +1,6 @@
 ## : User Information Project
 
-A full-stack mini project that collects user details through a web form, stores them in a MySQL database, exports and cleans data in Excel, and finally visualizes insights using Power BI.
+A full-stack Data Analytics project that collects user details through a web form, stores them in a MySQL database, exports and cleans data in Excel, and finally visualizes insights using Power BI.
 
 ---
 
