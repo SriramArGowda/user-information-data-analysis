@@ -83,7 +83,6 @@ user-information/
    - See dashboards (filters by email domain, month, year, etc.)
    - Uses custom theme: `Theme 1 - Light.json`
 
----
 
 ---
 
